@@ -1,0 +1,7 @@
+snscrape
+pandas
+selenium
+webdriver-manager
+tweepy
+requests
+beautifulsoup4
